@@ -295,3 +295,7 @@ cheat72_enable = false
 cheat73_desc = "Receive Symbol"
 cheat73_code = "D0000020+0004+83000E48+C330+D0000020+0004+83000E4A+0824+73000E48+C861+83000E48+99F1"
 cheat73_enable = false
+
+cheat74_desc = "Shiny Pokemon"
+cheat74_code = "9C1FE7D6+B07AE5A0+A6A74710+82BD7E29"
+cheat74_enable = false
